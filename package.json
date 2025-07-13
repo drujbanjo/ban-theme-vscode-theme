@@ -3,9 +3,13 @@
 	"displayName": "Ban Theme",
 	"description": "Theme for Visual Studio Code based on Tokyo Night.",
 	"publisher": "drujban",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "MIT",
 	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/drujbanjo/ban-theme-vscode-theme.git"
+	},
 	"keywords": [
 		"theme",
 		"contrast",
@@ -30,6 +34,11 @@
 				"label": "Ban Night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ban-color-theme-night.json"
+			},
+			{
+				"label": "Ban Light",
+				"uiTheme": "vs",
+				"path": "./themes/ban-color-theme-light.json"
 			}
 		]
 	}
