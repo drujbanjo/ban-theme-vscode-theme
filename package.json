@@ -1,0 +1,36 @@
+{
+	"name": "ban-theme",
+	"displayName": "Ban Theme",
+	"description": "Theme for Visual Studio Code based on Tokyo Night.",
+	"publisher": "drujban",
+	"version": "0.0.1",
+	"license": "MIT",
+	"icon": "icon.png",
+	"keywords": [
+		"theme",
+		"contrast",
+		"dark",
+		"clean"
+	],
+	"engines": {
+		"vscode": "^1.102.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ban Typhoon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ban-color-theme-typhoon.json"
+			},
+			{
+				"label": "Ban Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ban-color-theme-night.json"
+			}
+		]
+	}
+}
