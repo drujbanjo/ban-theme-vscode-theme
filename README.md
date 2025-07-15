@@ -75,7 +75,7 @@ Font used in the screenshots is [JetBrains Mono.](https://www.jetbrains.com/lp/m
 | ![#363B54](https://place-hold.it/15/363B54/363B54?text=+) `#363B54` | Line numbers, inactive UI, terminal black                               |
 | ![#ACB0D0](https://place-hold.it/15/ACB0D0/ACB0D0?text=+) `#ACB0D0` | Badge text, light labels                                                |
 
-### 🎨 Ban Typhoon — Color Palette
+### 🎨 Ban Light — Color Palette
 
 | Color                                                               | Usage                                                                   |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |

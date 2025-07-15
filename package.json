@@ -3,7 +3,7 @@
 	"displayName": "Ban Theme",
 	"description": "Theme for Visual Studio Code based on Tokyo Night.",
 	"publisher": "drujban",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"license": "MIT",
 	"icon": "icon.png",
 	"repository": {
